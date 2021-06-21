@@ -2,8 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning cooking
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
--   ganzib@aliyun.com
+- 📫 How to reach me ...
 
 <!---
 CarbonAnimal/CarbonAnimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
